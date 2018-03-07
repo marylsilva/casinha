@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+} 
+body{
+
+}
+.tela{
+	width: 100%;
+	height: 100vh;
+	background: #BDBDBD;
+	position: relative; 
+
+}
+.casa{
+	width: 700px;
+	height: 500px;
+	background: #2A0A12;
+	position: relative;
+
+}
+.porta{
+	width: 150px;
+	height: 350px;
+	background: #FE2E64;
+	position: absolute;
+	bottom: 0px;
+
+}
+.janela{
+	width: 300px;
+	height: 200px;
+	background: #FE2;
+	position: absolute;
+	top: 20px;
+	left: 250px;
+}
+.rio{
+	width: 100%;
+	height: 50px;
+	background: blue;
+	position: fixed;
+}
